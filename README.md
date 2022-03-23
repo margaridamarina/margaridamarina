@@ -1,10 +1,8 @@
 # Oláaa! Eu sou a Margarida! 🌼
 
-🌱 Tenho 25 anos <br/>
+🌱 Tenho 26 anos <br/>
 
-🔍 Sou formada em arquitetura e trabalhei na área por 3 anos, mas estou em transição para desenvolvedora web desde outubro/2021 e em busca de uma oportunidade. <br/>
-
-👩‍💻 Acredito no potencial da tecnologia para transformação da sociedade e vejo que assim como na arquitetura, temos que ser bons ouvintes e criativos para entender as demandas dos nossos usuários e dar boas soluções. Me considero uma pessoa estudiosa, focada, ágil, gosto de ser útil e de trabalhar em equipe, consigo gerenciar meu tempo, gosto de me manter atualizada, de participar das discussões e pensar em ideias que contribuam para o todo. <br/>
+👩‍💻 Acredito no potencial da tecnologia para transformação da sociedade e que temos que ser bons ouvintes e criativos para entender as demandas dos nossos usuários e dar boas soluções. Me considero uma pessoa estudiosa, focada, ágil, gosto de ser útil e de trabalhar em equipe, consigo gerenciar meu tempo, gosto de me manter atualizada, de participar das discussões e pensar em ideias que contribuam para o todo. <br/>
 
 💻 Estudo através da @alura <br/>
 <div style="display: inline_block"><br>
