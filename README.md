@@ -1,4 +1,4 @@
-# Oláaa! Eu sou a Margarida! 🌼
+# Oláaa!🌼
 
 🌱 Me chamo Margarida, tenho 26 anos e curso Análise e Desenvolvimento de Sistemas. <br/>
 
