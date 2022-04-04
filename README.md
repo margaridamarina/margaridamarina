@@ -1,10 +1,9 @@
 # Oláaa! Eu sou a Margarida! 🌼
 
-🌱 Tenho 26 anos <br/>
+🌱 Me chamo Margarida, tenho 26 anos e curso Análise e Desenvolvimento de Sistemas. <br/>
 
 👩‍💻 Acredito no potencial da tecnologia para transformação da sociedade e que temos que ser bons ouvintes e criativos para entender as demandas dos nossos usuários e dar boas soluções. Me considero uma pessoa estudiosa, focada, ágil, gosto de ser útil e de trabalhar em equipe, consigo gerenciar meu tempo, gosto de me manter atualizada, de participar das discussões e pensar em ideias que contribuam para o todo. <br/>
 
-💻 Estudo através da @alura <br/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
