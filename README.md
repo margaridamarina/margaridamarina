@@ -1,6 +1,6 @@
 # Oláaa!🌼
 
-🌱 Me chamo Margarida, tenho 26 anos e curso Análise e Desenvolvimento de Sistemas. <br/>
+🌱 Me chamo Margarida e tenho 26 anos <br/>
 
 👩‍💻 Acredito no potencial da tecnologia para transformação da sociedade e que temos que ser bons ouvintes e criativos para entender as demandas dos nossos usuários e dar boas soluções. Me considero uma pessoa estudiosa, focada, ágil, gosto de ser útil e de trabalhar em equipe, consigo gerenciar meu tempo, gosto de me manter atualizada, de participar das discussões e pensar em ideias que contribuam para o todo. <br/>
 
