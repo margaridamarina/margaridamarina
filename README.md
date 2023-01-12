@@ -14,5 +14,5 @@
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://www.iconpacks.net/icons/1/free-certificate-icon-1356-thumb.png">
 </div>
 <div>
-  <img height="180em" src="https://github-readme-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=margaridamarina&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=margaridamarina&layout=compact&langs_count=7&theme=dracula"/>
 </div>
