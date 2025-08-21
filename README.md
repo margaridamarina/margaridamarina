@@ -1,9 +1,9 @@
 # Oláaa!🌼
 <div style="display: inline_block">
-🌼 Me chamo Margarida e tenho 28 anos <br/>
+🌼 Me chamo Margarida e tenho 29 anos <br/>
 📘 Estudo Ciência da Computação na UFBA <br/>
 👩‍💻 Acredito no potencial da tecnologia para transformação da sociedade <br/>
-🌱 Amo conversar sobre sustentabilidade e falar sobre diversidade <br/>
+🌱 Amo conversar sobre sustentabilidade<br/>
 💻 Estou aprendendo:  
 <br>
 <div style="display: inline_block">
@@ -21,3 +21,4 @@
 <div>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=margaridamarina&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
