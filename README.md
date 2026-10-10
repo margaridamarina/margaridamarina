@@ -1,11 +1,7 @@
 # Oláaa!🌼
 <div style="display: inline_block">
-🌼 Me chamo Margarida e tenho 29 anos <br/>
-📘 Estudo Ciência da Computação na UFBA <br/>
+🌼 Me chamo Margarida e tenho 30 anos <br/>
 👩‍💻 Acredito no potencial da tecnologia para transformação da sociedade <br/>
-🌱 Amo conversar sobre sustentabilidade<br/>
-💻 Estou aprendendo:  
-<br>
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
